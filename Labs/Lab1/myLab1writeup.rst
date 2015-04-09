@@ -1,3 +1,5 @@
+# Lab1.rst
+
 # Lab1 file
 
 #. What was the hardest part of this lab?
